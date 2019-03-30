@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: boot-cache-ignite
+ignite:
+  cluster:
+    nodes: 127.0.0.1:47500..47509
